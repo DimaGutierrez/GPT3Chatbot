@@ -9,8 +9,6 @@ While the early versions of GPT-3 weren't as advanced as the current GPT-3.5 ser
 
 What makes ChatGPT so successful, compared to GPT-3, is it's accessibility as a straightforward AI assistant for the average person, regardless of their knowledge of data science, language models, or AI.
 
-In this article, I overview how chatbots like ChatGPT can be implemented using a large language model like GPT-3. 
-
 ## The Prompt
 Prompting is the process of instructing an AI to do something. As you have probably seen in ChatGPT examples online, you can prompt it to do just about anything. Common use cases are summarizing text, writing content based on a description, or creating things like poems, recipes, and much more.
 ChatGPT is both a language model and user interface. The prompt input by a user to the interface is actually inserted into a larger prompt that contains the entire conversation between the user and ChatGPT. This allows the underlying language model to understand the context of the conversation and respond appropriately.
