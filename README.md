@@ -1,4 +1,4 @@
-# Build ChatGPT from GPT-3
+# **Build ChatGPT from GPT-3**
 
 ## Introduction
 ChatGPT has blown up in the past month, gaining a million users in just a week. Surprisingly, the underlying model, GPT-3 debuted in 2020 and was released for public access over a year ago!
