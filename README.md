@@ -17,6 +17,6 @@ GPT-3 is able to 'learn' from a simple instruction or a few examples in the prom
 [chatbotPromptV1.py](https://gist.github.com/DimaGutierrez)
 ## Memorization
 Past exchanges between Skippy and the user get appended to the next prompt. Each time we give more user input and get more chatbot output, the prompt expands to incorporate this new exchange. This is how chatbots like Skippy and ChatGPT can remember previous inputs. There is a limit, however, to how much a GPT-3 chatbot can remember.
-
+  
 Prompts can get massive after several exchanges, especially if we are using the chatbot to generate long responses like blog posts. Prompts sent to GPT-3 are converted into tokens, which are individual words or parts of them. **There is a limit of 4097 tokens (about 3000 words)** for the combined prompt and generated response for GPT-3 models, including ChatGPT.
    
