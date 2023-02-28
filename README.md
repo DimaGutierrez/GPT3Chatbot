@@ -22,9 +22,3 @@ Past exchanges between Skippy and the user get appended to the next prompt. Each
 
 Prompts can get massive after several exchanges, especially if we are using the chatbot to generate long responses like blog posts. Prompts sent to GPT-3 are converted into tokens, which are individual words or parts of them. There is a limit of 4097 tokens (about 3000 words) for the combined prompt and generated response for GPT-3 models, including ChatGPT.
 
-Add in you frontend
-```Ruby
-<script src="https://gist.github.com/DimaGutierrez/03639f212c4569c567289b55db362e4f.js"></script>
-
-```
-[gist](https://gist.github.com/DimaGutierrez)
